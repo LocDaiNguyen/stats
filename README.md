@@ -4,7 +4,7 @@
 
 ## Setup
 
-install gulp globally `npm install -g gulp`
+Install gulp globally `npm install -g gulp`
 might need to use sudo `sudo npm install -g gulp`
 
 `git clone git@github.com:LocDaiNguyen/stats.git`
