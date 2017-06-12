@@ -1,6 +1,6 @@
 # Stats
 
-[Demo https://ldn-stats.herokuapp.com/signin](https://ldn-stats.herokuapp.com/signin)
+[Demo https://ldn-stats.herokuapp.com](https://ldn-stats.herokuapp.com)
 
 ## Setup
 
