@@ -4,8 +4,7 @@
 
 ## Setup
 
-Install gulp globally `npm install -g gulp`
-might need to use sudo `sudo npm install -g gulp`
+Install gulp globally `npm install -g gulp` (might need to use sudo `sudo npm install -g gulp`)
 
 `git clone git@github.com:LocDaiNguyen/stats.git`
 
@@ -13,9 +12,11 @@ might need to use sudo `sudo npm install -g gulp`
 
 `npm install`
 
-Create mongo db and import all `leaders-assist.json, leaders-gaa.json, leaders-goal.json, leaders-plus-minus.json, leaders-point.json, leaders-so.json, leaders-sv.json, leaders-win.json, players.json` files from the `data` folder
+Create a mongo db
 
-Name of collections should be `assists, gaas, goals, plusminus, points, sos, svs, wins`
+Create collections `assists, gaas, goals, plusminus, points, sos, svs, wins`
+
+Inside `data` folder import `leaders-assist.json, leaders-gaa.json, leaders-goal.json, leaders-plus-minus.json, leaders-point.json, leaders-so.json, leaders-sv.json, leaders-win.json, players.json` files to respective collection
 
 In `server.js` file change `mongoose.connect('localhost:27017/db_name_here');` to point to your mongo db
 
