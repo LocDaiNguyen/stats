@@ -1,0 +1,10 @@
+.DS_Store
+.tmp
+.git
+node_modules
+.settings
+*.log
+.idea
+
+/src/bundle.js
+/src/bundle.js.map

@@ -1,0 +1,874 @@
+{ "id" : 8462118, "primaryNumber" : "", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "C" }
+{ "id" : 8473989, "primaryNumber" : "20", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "LW" }
+{ "id" : 8476399, "primaryNumber" : "40", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "C" }
+{ "id" : 8469500, "primaryNumber" : "13", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "LW" }
+{ "id" : 8471233, "primaryNumber" : "19", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "C" }
+{ "id" : 8471239, "primaryNumber" : "35", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "G" }
+{ "id" : 8472382, "primaryNumber" : "6", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "D" }
+{ "id" : 8473933, "primaryNumber" : "12", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "D" }
+{ "id" : 8474641, "primaryNumber" : "14", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "C" }
+{ "id" : 8474774, "primaryNumber" : "47", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "D" }
+{ "id" : 8475151, "primaryNumber" : "21", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "RW" }
+{ "id" : 8475185, "primaryNumber" : "16", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "C" }
+{ "id" : 8475186, "primaryNumber" : "2", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "D" }
+{ "id" : 8475750, "primaryNumber" : "7", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "D" }
+{ "id" : 8475758, "primaryNumber" : "25", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "RW" }
+{ "id" : 8475761, "primaryNumber" : "8", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "RW" }
+{ "id" : 8475791, "primaryNumber" : "9", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "LW" }
+{ "id" : 8476234, "primaryNumber" : "1", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "G" }
+{ "id" : 8476474, "primaryNumber" : "23", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "RW" }
+{ "id" : 8476923, "primaryNumber" : "28", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "D" }
+{ "id" : 8478401, "primaryNumber" : "37", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "C" }
+{ "id" : 8480081, "primaryNumber" : "32", "currentTeamId" : 1, "currentTeamName" : "New Jersey Devils", "position" : "D" }
+
+
+
+{ "id" : 8466251, "primaryNumber" : "25", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "LW" }
+{ "id" : 8469619, "primaryNumber" : "4", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "D" }
+{ "id" : 8470187, "primaryNumber" : "55", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "D" }
+{ "id" : 8470860, "primaryNumber" : "41", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "G" }
+{ "id" : 8471217, "primaryNumber" : "16", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "LW" }
+{ "id" : 8471306, "primaryNumber" : "1", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "G" }
+{ "id" : 8472410, "primaryNumber" : "24", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "RW" }
+{ "id" : 8473504, "primaryNumber" : "15", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "RW" }
+{ "id" : 8473579, "primaryNumber" : "86", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "LW" }
+{ "id" : 8474066, "primaryNumber" : "14", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "D" }
+{ "id" : 8474573, "primaryNumber" : "12", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "RW" }
+{ "id" : 8474612, "primaryNumber" : "3", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "D" }
+{ "id" : 8475166, "primaryNumber" : "91", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "C" }
+{ "id" : 8475177, "primaryNumber" : "44", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "D" }
+{ "id" : 8475181, "primaryNumber" : "2", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "D" }
+{ "id" : 8475231, "primaryNumber" : "53", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "C" }
+{ "id" : 8475234, "primaryNumber" : "30", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "G" }
+{ "id" : 8475314, "primaryNumber" : "27", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "LW" }
+{ "id" : 8475754, "primaryNumber" : "29", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "C" }
+{ "id" : 8476386, "primaryNumber" : "11", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "LW" }
+{ "id" : 8476409, "primaryNumber" : "10", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "C" }
+{ "id" : 8476429, "primaryNumber" : "42", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "D" }
+{ "id" : 8476458, "primaryNumber" : "18", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "RW" }
+{ "id" : 8478463, "primaryNumber" : "72", "currentTeamId" : 2, "currentTeamName" : "New York Islanders", "position" : "C" }
+
+
+
+{ "id" : 8468685, "primaryNumber" : "30", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "G" }
+{ "id" : 8470041, "primaryNumber" : "61", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "RW" }
+{ "id" : 8470630, "primaryNumber" : "8", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8470854, "primaryNumber" : "15", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "LW" }
+{ "id" : 8471686, "primaryNumber" : "18", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8471958, "primaryNumber" : "5", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8473546, "primaryNumber" : "40", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "RW" }
+{ "id" : 8474000, "primaryNumber" : "43", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8474090, "primaryNumber" : "42", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8474151, "primaryNumber" : "27", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8474207, "primaryNumber" : "22", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8474613, "primaryNumber" : "21", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "C" }
+{ "id" : 8475184, "primaryNumber" : "20", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "LW" }
+{ "id" : 8475204, "primaryNumber" : "73", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "RW" }
+{ "id" : 8475692, "primaryNumber" : "36", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "RW" }
+{ "id" : 8475715, "primaryNumber" : "24", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "C" }
+{ "id" : 8475763, "primaryNumber" : "13", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "C" }
+{ "id" : 8475855, "primaryNumber" : "19", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "RW" }
+{ "id" : 8476431, "primaryNumber" : "4", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8476433, "primaryNumber" : "45", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "G" }
+{ "id" : 8476459, "primaryNumber" : "93", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "C" }
+{ "id" : 8476468, "primaryNumber" : "10", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "LW" }
+{ "id" : 8476477, "primaryNumber" : "12", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "LW" }
+{ "id" : 8476482, "primaryNumber" : "39", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "RW" }
+{ "id" : 8476869, "primaryNumber" : "76", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "D" }
+{ "id" : 8476918, "primaryNumber" : "26", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "LW" }
+{ "id" : 8477293, "primaryNumber" : "32", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "G" }
+{ "id" : 8477402, "primaryNumber" : "89", "currentTeamId" : 3, "currentTeamName" : "New York Rangers", "position" : "RW" }
+
+
+
+{ "id" : 8477290, "primaryNumber" : "12", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "LW" }
+{ "id" : 8468513, "primaryNumber" : "55", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "D" }
+{ "id" : 8470047, "primaryNumber" : "51", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8471762, "primaryNumber" : "76", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8473461, "primaryNumber" : "35", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "G" }
+{ "id" : 8473512, "primaryNumber" : "28", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8473584, "primaryNumber" : "47", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "D" }
+{ "id" : 8473607, "primaryNumber" : "30", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "G" }
+{ "id" : 8474161, "primaryNumber" : "93", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "RW" }
+{ "id" : 8474190, "primaryNumber" : "17", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "RW" }
+{ "id" : 8474584, "primaryNumber" : "15", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "D" }
+{ "id" : 8474668, "primaryNumber" : "22", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "RW" }
+{ "id" : 8475170, "primaryNumber" : "10", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8475430, "primaryNumber" : "23", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "D" }
+{ "id" : 8475462, "primaryNumber" : "3", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "D" }
+{ "id" : 8475738, "primaryNumber" : "40", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8476177, "primaryNumber" : "24", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "RW" }
+{ "id" : 8476393, "primaryNumber" : "25", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8476461, "primaryNumber" : "14", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8476906, "primaryNumber" : "53", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "D" }
+{ "id" : 8477930, "primaryNumber" : "78", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "LW" }
+{ "id" : 8478439, "primaryNumber" : "11", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+{ "id" : 8478500, "primaryNumber" : "9", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "D" }
+{ "id" : 8479648, "primaryNumber" : "13", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "LW" }
+{ "id" : 8480087, "primaryNumber" : "74", "currentTeamId" : 4, "currentTeamName" : "Philadelphia Flyers", "position" : "C" }
+
+
+
+{ "id" : 8471724, "primaryNumber" : "58", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8464989, "primaryNumber" : "7", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8468309, "primaryNumber" : "32", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8468493, "primaryNumber" : "65", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8470110, "primaryNumber" : "6", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8470543, "primaryNumber" : "14", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "LW" }
+{ "id" : 8470594, "primaryNumber" : "29", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "G" }
+{ "id" : 8471215, "primaryNumber" : "71", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8471331, "primaryNumber" : "11", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8471675, "primaryNumber" : "87", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8471887, "primaryNumber" : "72", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "RW" }
+{ "id" : 8473542, "primaryNumber" : "25", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "LW" }
+{ "id" : 8473548, "primaryNumber" : "81", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "RW" }
+{ "id" : 8474009, "primaryNumber" : "13", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8474013, "primaryNumber" : "28", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8474176, "primaryNumber" : "62", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "LW" }
+{ "id" : 8474602, "primaryNumber" : "4", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8474611, "primaryNumber" : "24", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8474660, "primaryNumber" : "5", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8475208, "primaryNumber" : "8", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8475253, "primaryNumber" : "19", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "LW" }
+{ "id" : 8475810, "primaryNumber" : "17", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "RW" }
+{ "id" : 8475832, "primaryNumber" : "34", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "RW" }
+{ "id" : 8476293, "primaryNumber" : "23", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "LW" }
+{ "id" : 8476302, "primaryNumber" : "20", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8476326, "primaryNumber" : "45", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "RW" }
+{ "id" : 8476874, "primaryNumber" : "3", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8476884, "primaryNumber" : "51", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8476897, "primaryNumber" : "40", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8476899, "primaryNumber" : "30", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "G" }
+{ "id" : 8476963, "primaryNumber" : "31", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "G" }
+{ "id" : 8477240, "primaryNumber" : "37", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "RW" }
+{ "id" : 8477244, "primaryNumber" : "2", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "D" }
+{ "id" : 8477404, "primaryNumber" : "59", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8477465, "primaryNumber" : "35", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "G" }
+{ "id" : 8477520, "primaryNumber" : "39", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+{ "id" : 8477839, "primaryNumber" : "43", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "LW" }
+{ "id" : 8478466, "primaryNumber" : "41", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "RW" }
+{ "id" : 8478866, "primaryNumber" : "49", "currentTeamId" : 5, "currentTeamName" : "Pittsburgh Penguins", "position" : "C" }
+
+
+
+{ "id" : 8465009, "primaryNumber" : "33", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8468575, "primaryNumber" : "28", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8468639, "primaryNumber" : "26", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8470638, "primaryNumber" : "37", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8470655, "primaryNumber" : "42", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "RW" }
+{ "id" : 8471226, "primaryNumber" : "19", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "RW" }
+{ "id" : 8471276, "primaryNumber" : "46", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8471418, "primaryNumber" : "35", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "G" }
+{ "id" : 8471695, "primaryNumber" : "40", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "G" }
+{ "id" : 8471717, "primaryNumber" : "54", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8473419, "primaryNumber" : "63", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "LW" }
+{ "id" : 8473492, "primaryNumber" : "39", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "LW" }
+{ "id" : 8474062, "primaryNumber" : "20", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8474625, "primaryNumber" : "11", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "RW" }
+{ "id" : 8475727, "primaryNumber" : "51", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8476191, "primaryNumber" : "86", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8476476, "primaryNumber" : "45", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8476525, "primaryNumber" : "6", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8476792, "primaryNumber" : "47", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8477213, "primaryNumber" : "59", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8477956, "primaryNumber" : "88", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "RW" }
+{ "id" : 8478366, "primaryNumber" : "72", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8478417, "primaryNumber" : "23", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "C" }
+{ "id" : 8478443, "primaryNumber" : "25", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+{ "id" : 8479325, "primaryNumber" : "73", "currentTeamId" : 6, "currentTeamName" : "Boston Bruins", "position" : "D" }
+
+
+
+{ "id" : 8469591, "primaryNumber" : "8", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "C" }
+{ "id" : 8475728, "primaryNumber" : "22", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "C" }
+{ "id" : 8479755, "primaryNumber" : "", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8467407, "primaryNumber" : "12", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "RW" }
+{ "id" : 8470324, "primaryNumber" : "4", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8470852, "primaryNumber" : "26", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "LW" }
+{ "id" : 8471742, "primaryNumber" : "6", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8473449, "primaryNumber" : "21", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "RW" }
+{ "id" : 8473992, "primaryNumber" : "41", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8474567, "primaryNumber" : "47", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8474589, "primaryNumber" : "63", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "LW" }
+{ "id" : 8475158, "primaryNumber" : "90", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "C" }
+{ "id" : 8475169, "primaryNumber" : "9", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "LW" }
+{ "id" : 8475179, "primaryNumber" : "77", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8475195, "primaryNumber" : "31", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "G" }
+{ "id" : 8475215, "primaryNumber" : "40", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "G" }
+{ "id" : 8475220, "primaryNumber" : "82", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "LW" }
+{ "id" : 8475235, "primaryNumber" : "44", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "LW" }
+{ "id" : 8476166, "primaryNumber" : "38", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8476878, "primaryNumber" : "28", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "C" }
+{ "id" : 8476931, "primaryNumber" : "29", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8477391, "primaryNumber" : "42", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "C" }
+{ "id" : 8477478, "primaryNumber" : "48", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "LW" }
+{ "id" : 8477499, "primaryNumber" : "55", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "D" }
+{ "id" : 8477933, "primaryNumber" : "23", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "C" }
+{ "id" : 8478403, "primaryNumber" : "15", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "C" }
+{ "id" : 8480083, "primaryNumber" : "49", "currentTeamId" : 7, "currentTeamName" : "Buffalo Sabres", "position" : "LW" }
+
+
+
+{ "id" : 8467496, "primaryNumber" : "79", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8469521, "primaryNumber" : "14", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "C" }
+{ "id" : 8470642, "primaryNumber" : "6", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8471219, "primaryNumber" : "35", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "G" }
+{ "id" : 8471228, "primaryNumber" : "47", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "RW" }
+{ "id" : 8471296, "primaryNumber" : "74", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8471338, "primaryNumber" : "17", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "C" }
+{ "id" : 8471679, "primaryNumber" : "31", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "G" }
+{ "id" : 8473507, "primaryNumber" : "26", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8474038, "primaryNumber" : "41", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "LW" }
+{ "id" : 8474100, "primaryNumber" : "21", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "LW" }
+{ "id" : 8474157, "primaryNumber" : "67", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "LW" }
+{ "id" : 8474818, "primaryNumber" : "8", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8475848, "primaryNumber" : "11", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "RW" }
+{ "id" : 8475869, "primaryNumber" : "88", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8476300, "primaryNumber" : "89", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8476381, "primaryNumber" : "65", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "C" }
+{ "id" : 8476470, "primaryNumber" : "28", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "D" }
+{ "id" : 8476479, "primaryNumber" : "24", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "LW" }
+{ "id" : 8476808, "primaryNumber" : "32", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "C" }
+{ "id" : 8476851, "primaryNumber" : "27", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "C" }
+{ "id" : 8477476, "primaryNumber" : "62", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "LW" }
+{ "id" : 8478561, "primaryNumber" : "37", "currentTeamId" : 8, "currentTeamName" : "Montréal Canadiens", "position" : "LW" }
+
+
+
+{ "id" : 8477202, "primaryNumber" : "30", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "G" }
+{ "id" : 8467493, "primaryNumber" : "25", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "RW" }
+{ "id" : 8467950, "primaryNumber" : "41", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "G" }
+{ "id" : 8467967, "primaryNumber" : "22", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8470358, "primaryNumber" : "14", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "LW" }
+{ "id" : 8470602, "primaryNumber" : "2", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8470667, "primaryNumber" : "16", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "LW" }
+{ "id" : 8470760, "primaryNumber" : "3", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8471676, "primaryNumber" : "9", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "RW" }
+{ "id" : 8471768, "primaryNumber" : "10", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "LW" }
+{ "id" : 8473537, "primaryNumber" : "24", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "LW" }
+{ "id" : 8473544, "primaryNumber" : "19", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8474018, "primaryNumber" : "49", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8474068, "primaryNumber" : "7", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8474250, "primaryNumber" : "15", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8474578, "primaryNumber" : "65", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8474697, "primaryNumber" : "74", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8474739, "primaryNumber" : "57", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8474884, "primaryNumber" : "68", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "LW" }
+{ "id" : 8475227, "primaryNumber" : "6", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8475913, "primaryNumber" : "61", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "RW" }
+{ "id" : 8476279, "primaryNumber" : "23", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8476288, "primaryNumber" : "18", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "LW" }
+{ "id" : 8476368, "primaryNumber" : "33", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8476419, "primaryNumber" : "44", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8476879, "primaryNumber" : "5", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8477237, "primaryNumber" : "1", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "G" }
+{ "id" : 8477433, "primaryNumber" : "67", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8477971, "primaryNumber" : "39", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "D" }
+{ "id" : 8478400, "primaryNumber" : "82", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "C" }
+{ "id" : 8478559, "primaryNumber" : "29", "currentTeamId" : 9, "currentTeamName" : "Ottawa Senators", "position" : "G" }
+
+
+
+{ "id" : 8470147, "primaryNumber" : "35", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "G" }
+{ "id" : 8470611, "primaryNumber" : "23", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8470619, "primaryNumber" : "24", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8471392, "primaryNumber" : "46", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+{ "id" : 8471436, "primaryNumber" : "2", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+{ "id" : 8473463, "primaryNumber" : "47", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8474037, "primaryNumber" : "25", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "LW" }
+{ "id" : 8474581, "primaryNumber" : "51", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+{ "id" : 8474709, "primaryNumber" : "15", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "LW" }
+{ "id" : 8474727, "primaryNumber" : "18", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "RW" }
+{ "id" : 8475098, "primaryNumber" : "42", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8475172, "primaryNumber" : "43", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8475716, "primaryNumber" : "52", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+{ "id" : 8475786, "primaryNumber" : "11", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8475883, "primaryNumber" : "31", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "G" }
+{ "id" : 8476289, "primaryNumber" : "3", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+{ "id" : 8476410, "primaryNumber" : "32", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "LW" }
+{ "id" : 8476853, "primaryNumber" : "44", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+{ "id" : 8476941, "primaryNumber" : "8", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+{ "id" : 8477015, "primaryNumber" : "12", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "RW" }
+{ "id" : 8477939, "primaryNumber" : "29", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8478373, "primaryNumber" : "26", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "RW" }
+{ "id" : 8478483, "primaryNumber" : "16", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8479318, "primaryNumber" : "34", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "C" }
+{ "id" : 8479458, "primaryNumber" : "22", "currentTeamId" : 10, "currentTeamName" : "Toronto Maple Leafs", "position" : "D" }
+
+
+
+{ "id" : 8469508, "primaryNumber" : "18", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "C" }
+{ "id" : 8470320, "primaryNumber" : "30", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "G" }
+{ "id" : 8470740, "primaryNumber" : "21", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "RW" }
+{ "id" : 8471254, "primaryNumber" : "29", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "LW" }
+{ "id" : 8473533, "primaryNumber" : "11", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "C" }
+{ "id" : 8474152, "primaryNumber" : "", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "G" }
+{ "id" : 8475663, "primaryNumber" : "31", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "G" }
+{ "id" : 8475753, "primaryNumber" : "27", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "D" }
+{ "id" : 8475784, "primaryNumber" : "53", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "LW" }
+{ "id" : 8475807, "primaryNumber" : "42", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "LW" }
+{ "id" : 8476403, "primaryNumber" : "6", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "D" }
+{ "id" : 8476437, "primaryNumber" : "49", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "C" }
+{ "id" : 8476465, "primaryNumber" : "7", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "D" }
+{ "id" : 8476807, "primaryNumber" : "26", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "D" }
+{ "id" : 8476882, "primaryNumber" : "86", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "LW" }
+{ "id" : 8476934, "primaryNumber" : "23", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "LW" }
+{ "id" : 8476958, "primaryNumber" : "74", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "D" }
+{ "id" : 8477488, "primaryNumber" : "22", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "D" }
+{ "id" : 8477496, "primaryNumber" : "16", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "C" }
+{ "id" : 8478396, "primaryNumber" : "5", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "D" }
+{ "id" : 8478427, "primaryNumber" : "20", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "RW" }
+{ "id" : 8478585, "primaryNumber" : "33", "currentTeamId" : 12, "currentTeamName" : "Carolina Hurricanes", "position" : "C" }
+
+
+
+{ "id" : 8477346, "primaryNumber" : "52", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8477452, "primaryNumber" : "12", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8448208, "primaryNumber" : "68", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "RW" }
+{ "id" : 8465978, "primaryNumber" : "22", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "LW" }
+{ "id" : 8466141, "primaryNumber" : "1", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "G" }
+{ "id" : 8468001, "primaryNumber" : "17", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+{ "id" : 8469638, "primaryNumber" : "36", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "LW" }
+{ "id" : 8470598, "primaryNumber" : "26", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "LW" }
+{ "id" : 8471693, "primaryNumber" : "46", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8471735, "primaryNumber" : "3", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8473499, "primaryNumber" : "20", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "G" }
+{ "id" : 8473503, "primaryNumber" : "34", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "G" }
+{ "id" : 8474098, "primaryNumber" : "7", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+{ "id" : 8474218, "primaryNumber" : "55", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8475191, "primaryNumber" : "18", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "RW" }
+{ "id" : 8475755, "primaryNumber" : "6", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8475760, "primaryNumber" : "27", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+{ "id" : 8475796, "primaryNumber" : "13", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8475958, "primaryNumber" : "48", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+{ "id" : 8476389, "primaryNumber" : "21", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+{ "id" : 8476456, "primaryNumber" : "11", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "LW" }
+{ "id" : 8476539, "primaryNumber" : "81", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+{ "id" : 8476875, "primaryNumber" : "19", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8477493, "primaryNumber" : "16", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+{ "id" : 8477932, "primaryNumber" : "5", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "D" }
+{ "id" : 8478843, "primaryNumber" : "62", "currentTeamId" : 13, "currentTeamName" : "Florida Panthers", "position" : "C" }
+
+
+
+{ "id" : 8471339, "primaryNumber" : "24", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "RW" }
+{ "id" : 8474564, "primaryNumber" : "91", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "C" }
+{ "id" : 8469514, "primaryNumber" : "31", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "G" }
+{ "id" : 8470601, "primaryNumber" : "55", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "D" }
+{ "id" : 8471873, "primaryNumber" : "6", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "D" }
+{ "id" : 8473986, "primaryNumber" : "17", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "LW" }
+{ "id" : 8474520, "primaryNumber" : "5", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "D" }
+{ "id" : 8474722, "primaryNumber" : "28", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "D" }
+{ "id" : 8474870, "primaryNumber" : "9", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "C" }
+{ "id" : 8475167, "primaryNumber" : "77", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "D" }
+{ "id" : 8475735, "primaryNumber" : "33", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "C" }
+{ "id" : 8476292, "primaryNumber" : "18", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "LW" }
+{ "id" : 8476453, "primaryNumber" : "86", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "RW" }
+{ "id" : 8476480, "primaryNumber" : "90", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "C" }
+{ "id" : 8476806, "primaryNumber" : "23", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "RW" }
+{ "id" : 8476883, "primaryNumber" : "88", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "G" }
+{ "id" : 8476975, "primaryNumber" : "13", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "C" }
+{ "id" : 8477205, "primaryNumber" : "62", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "D" }
+{ "id" : 8477494, "primaryNumber" : "27", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "LW" }
+{ "id" : 8478010, "primaryNumber" : "21", "currentTeamId" : 14, "currentTeamName" : "Tampa Bay Lightning", "position" : "C" }
+
+
+
+{ "id" : 8468498, "primaryNumber" : "44", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8468508, "primaryNumber" : "14", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "RW" }
+{ "id" : 8471214, "primaryNumber" : "8", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "LW" }
+{ "id" : 8471476, "primaryNumber" : "26", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "LW" }
+{ "id" : 8471698, "primaryNumber" : "77", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "RW" }
+{ "id" : 8471702, "primaryNumber" : "2", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8471710, "primaryNumber" : "4", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8473563, "primaryNumber" : "19", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "C" }
+{ "id" : 8473991, "primaryNumber" : "27", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8474031, "primaryNumber" : "22", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8474189, "primaryNumber" : "20", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "C" }
+{ "id" : 8474291, "primaryNumber" : "83", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "C" }
+{ "id" : 8474590, "primaryNumber" : "74", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8474651, "primaryNumber" : "70", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "G" }
+{ "id" : 8475149, "primaryNumber" : "90", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "LW" }
+{ "id" : 8475200, "primaryNumber" : "9", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8475744, "primaryNumber" : "92", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "C" }
+{ "id" : 8475792, "primaryNumber" : "10", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "RW" }
+{ "id" : 8475831, "primaryNumber" : "31", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "G" }
+{ "id" : 8476880, "primaryNumber" : "43", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "RW" }
+{ "id" : 8477220, "primaryNumber" : "88", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "D" }
+{ "id" : 8477444, "primaryNumber" : "65", "currentTeamId" : 15, "currentTeamName" : "Washington Capitals", "position" : "LW" }
+
+
+
+{ "id" : 8465058, "primaryNumber" : "32", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8466148, "primaryNumber" : "81", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "RW" }
+{ "id" : 8466285, "primaryNumber" : "51", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8469547, "primaryNumber" : "22", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "RW" }
+{ "id" : 8469665, "primaryNumber" : "27", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8470281, "primaryNumber" : "2", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8470607, "primaryNumber" : "7", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8470645, "primaryNumber" : "50", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "G" }
+{ "id" : 8471301, "primaryNumber" : "30", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "G" }
+{ "id" : 8471769, "primaryNumber" : "4", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8471956, "primaryNumber" : "11", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "LW" }
+{ "id" : 8473573, "primaryNumber" : "15", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "C" }
+{ "id" : 8473604, "primaryNumber" : "19", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "C" }
+{ "id" : 8474141, "primaryNumber" : "88", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "RW" }
+{ "id" : 8475209, "primaryNumber" : "14", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "RW" }
+{ "id" : 8475323, "primaryNumber" : "16", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "C" }
+{ "id" : 8476430, "primaryNumber" : "13", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "LW" }
+{ "id" : 8476979, "primaryNumber" : "56", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8476994, "primaryNumber" : "48", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "LW" }
+{ "id" : 8477353, "primaryNumber" : "64", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "LW" }
+{ "id" : 8477401, "primaryNumber" : "40", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "LW" }
+{ "id" : 8477451, "primaryNumber" : "38", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "LW" }
+{ "id" : 8477845, "primaryNumber" : "57", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8477929, "primaryNumber" : "70", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "C" }
+{ "id" : 8477951, "primaryNumber" : "8", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "C" }
+{ "id" : 8478055, "primaryNumber" : "42", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+{ "id" : 8478393, "primaryNumber" : "39", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "RW" }
+{ "id" : 8478528, "primaryNumber" : "67", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "C" }
+{ "id" : 8478550, "primaryNumber" : "72", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "LW" }
+{ "id" : 8479482, "primaryNumber" : "6", "currentTeamId" : 16, "currentTeamName" : "Chicago Blackhawks", "position" : "D" }
+
+
+
+{ "id" : 8470318, "primaryNumber" : "52", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8471309, "primaryNumber" : "93", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "RW" }
+{ "id" : 8471856, "primaryNumber" : "97", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+{ "id" : 8476450, "primaryNumber" : "48", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8476043, "primaryNumber" : "46", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+{ "id" : 8476418, "primaryNumber" : "18", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8477931, "primaryNumber" : "83", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "LW" }
+{ "id" : 8478371, "primaryNumber" : "22", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "LW" }
+{ "id" : 8468083, "primaryNumber" : "40", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "LW" }
+{ "id" : 8468509, "primaryNumber" : "55", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8470144, "primaryNumber" : "51", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+{ "id" : 8470657, "primaryNumber" : "35", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "G" }
+{ "id" : 8470778, "primaryNumber" : "20", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "LW" }
+{ "id" : 8471242, "primaryNumber" : "25", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8471716, "primaryNumber" : "8", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "LW" }
+{ "id" : 8471794, "primaryNumber" : "43", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+{ "id" : 8474679, "primaryNumber" : "14", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "RW" }
+{ "id" : 8475193, "primaryNumber" : "21", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "LW" }
+{ "id" : 8475324, "primaryNumber" : "3", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8475772, "primaryNumber" : "15", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+{ "id" : 8475852, "primaryNumber" : "34", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "G" }
+{ "id" : 8476443, "primaryNumber" : "61", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8476822, "primaryNumber" : "41", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+{ "id" : 8476960, "primaryNumber" : "72", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+{ "id" : 8477215, "primaryNumber" : "65", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "D" }
+{ "id" : 8477511, "primaryNumber" : "39", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "RW" }
+{ "id" : 8477946, "primaryNumber" : "71", "currentTeamId" : 17, "currentTeamName" : "Detroit Red Wings", "position" : "C" }
+
+
+
+{ "id" : 8467370, "primaryNumber" : "12", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "C" }
+{ "id" : 8469707, "primaryNumber" : "11", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "RW" }
+{ "id" : 8469759, "primaryNumber" : "83", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "C" }
+{ "id" : 8471469, "primaryNumber" : "35", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "G" }
+{ "id" : 8471657, "primaryNumber" : "55", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8471707, "primaryNumber" : "18", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "RW" }
+{ "id" : 8474056, "primaryNumber" : "76", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8474134, "primaryNumber" : "7", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8474569, "primaryNumber" : "33", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8474600, "primaryNumber" : "59", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8475176, "primaryNumber" : "4", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8475218, "primaryNumber" : "14", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8475225, "primaryNumber" : "15", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "RW" }
+{ "id" : 8475625, "primaryNumber" : "52", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8475714, "primaryNumber" : "19", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "C" }
+{ "id" : 8475766, "primaryNumber" : "51", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8475774, "primaryNumber" : "8", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8475793, "primaryNumber" : "92", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "C" }
+{ "id" : 8475868, "primaryNumber" : "2", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8476158, "primaryNumber" : "26", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8476447, "primaryNumber" : "20", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "RW" }
+{ "id" : 8476779, "primaryNumber" : "24", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "D" }
+{ "id" : 8476857, "primaryNumber" : "46", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8476887, "primaryNumber" : "9", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8476925, "primaryNumber" : "10", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "C" }
+{ "id" : 8477424, "primaryNumber" : "74", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "G" }
+{ "id" : 8477919, "primaryNumber" : "32", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "C" }
+{ "id" : 8477942, "primaryNumber" : "56", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8477973, "primaryNumber" : "50", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+{ "id" : 8478042, "primaryNumber" : "38", "currentTeamId" : 18, "currentTeamName" : "Nashville Predators", "position" : "LW" }
+
+
+
+{ "id" : 8477952, "primaryNumber" : "15", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "C" }
+{ "id" : 8470105, "primaryNumber" : "10", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "RW" }
+{ "id" : 8470151, "primaryNumber" : "19", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "D" }
+{ "id" : 8470257, "primaryNumber" : "20", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "LW" }
+{ "id" : 8470803, "primaryNumber" : "28", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "C" }
+{ "id" : 8471669, "primaryNumber" : "26", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "C" }
+{ "id" : 8471743, "primaryNumber" : "71", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "LW" }
+{ "id" : 8471817, "primaryNumber" : "75", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "RW" }
+{ "id" : 8473534, "primaryNumber" : "21", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "C" }
+{ "id" : 8474102, "primaryNumber" : "57", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "LW" }
+{ "id" : 8474125, "primaryNumber" : "4", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "D" }
+{ "id" : 8474145, "primaryNumber" : "41", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "D" }
+{ "id" : 8474565, "primaryNumber" : "27", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "D" }
+{ "id" : 8474596, "primaryNumber" : "34", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "G" }
+{ "id" : 8474627, "primaryNumber" : "12", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "C" }
+{ "id" : 8475175, "primaryNumber" : "56", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "LW" }
+{ "id" : 8475622, "primaryNumber" : "40", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "G" }
+{ "id" : 8475765, "primaryNumber" : "91", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "RW" }
+{ "id" : 8475768, "primaryNumber" : "17", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "LW" }
+{ "id" : 8476436, "primaryNumber" : "23", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "RW" }
+{ "id" : 8476441, "primaryNumber" : "6", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "D" }
+{ "id" : 8476855, "primaryNumber" : "64", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "RW" }
+{ "id" : 8476892, "primaryNumber" : "55", "currentTeamId" : 19, "currentTeamName" : "St. Louis Blues", "position" : "D" }
+
+
+
+{ "id" : 8471222, "primaryNumber" : "15", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8476903, "primaryNumber" : "32", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "G" }
+{ "id" : 8478397, "primaryNumber" : "54", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8468674, "primaryNumber" : "29", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8469770, "primaryNumber" : "6", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8470162, "primaryNumber" : "18", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "C" }
+{ "id" : 8470880, "primaryNumber" : "1", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "G" }
+{ "id" : 8470966, "primaryNumber" : "5", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8471346, "primaryNumber" : "10", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "RW" }
+{ "id" : 8471426, "primaryNumber" : "36", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "RW" }
+{ "id" : 8473434, "primaryNumber" : "31", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "G" }
+{ "id" : 8473564, "primaryNumber" : "67", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "RW" }
+{ "id" : 8474150, "primaryNumber" : "11", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "C" }
+{ "id" : 8474628, "primaryNumber" : "26", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8474642, "primaryNumber" : "17", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "C" }
+{ "id" : 8474673, "primaryNumber" : "7", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8474749, "primaryNumber" : "44", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8475163, "primaryNumber" : "39", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "RW" }
+{ "id" : 8475878, "primaryNumber" : "25", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "C" }
+{ "id" : 8475907, "primaryNumber" : "79", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "LW" }
+{ "id" : 8476346, "primaryNumber" : "13", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "LW" }
+{ "id" : 8476462, "primaryNumber" : "27", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "D" }
+{ "id" : 8477497, "primaryNumber" : "23", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "C" }
+{ "id" : 8477508, "primaryNumber" : "20", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "C" }
+{ "id" : 8477935, "primaryNumber" : "93", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "C" }
+{ "id" : 8479314, "primaryNumber" : "19", "currentTeamId" : 20, "currentTeamName" : "Calgary Flames", "position" : "LW" }
+
+
+
+{ "id" : 8473575, "primaryNumber" : "1", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "G" }
+{ "id" : 8467400, "primaryNumber" : "32", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8469492, "primaryNumber" : "51", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8470750, "primaryNumber" : "7", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "C" }
+{ "id" : 8471260, "primaryNumber" : "14", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "LW" }
+{ "id" : 8471262, "primaryNumber" : "34", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "C" }
+{ "id" : 8471504, "primaryNumber" : "17", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "RW" }
+{ "id" : 8473446, "primaryNumber" : "6", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8474092, "primaryNumber" : "40", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "G" }
+{ "id" : 8474577, "primaryNumber" : "8", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "C" }
+{ "id" : 8474597, "primaryNumber" : "18", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8474605, "primaryNumber" : "28", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8474717, "primaryNumber" : "45", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8475168, "primaryNumber" : "9", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "C" }
+{ "id" : 8475197, "primaryNumber" : "4", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8475717, "primaryNumber" : "31", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "G" }
+{ "id" : 8476442, "primaryNumber" : "83", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "LW" }
+{ "id" : 8476455, "primaryNumber" : "92", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "LW" }
+{ "id" : 8476888, "primaryNumber" : "25", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "C" }
+{ "id" : 8477413, "primaryNumber" : "10", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "RW" }
+{ "id" : 8477456, "primaryNumber" : "37", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "LW" }
+{ "id" : 8477492, "primaryNumber" : "29", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "C" }
+{ "id" : 8477507, "primaryNumber" : "16", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "D" }
+{ "id" : 8478420, "primaryNumber" : "96", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "RW" }
+{ "id" : 8479370, "primaryNumber" : "27", "currentTeamId" : 21, "currentTeamName" : "Colorado Avalanche", "position" : "C" }
+
+
+
+{ "id" : 8466333, "primaryNumber" : "21", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8475752, "primaryNumber" : "15", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "RW" }
+{ "id" : 8468611, "primaryNumber" : "23", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "LW" }
+{ "id" : 8471284, "primaryNumber" : "2", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8471678, "primaryNumber" : "67", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "LW" }
+{ "id" : 8471729, "primaryNumber" : "4", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8471816, "primaryNumber" : "5", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8471976, "primaryNumber" : "13", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "C" }
+{ "id" : 8473468, "primaryNumber" : "62", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8473473, "primaryNumber" : "27", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "LW" }
+{ "id" : 8473914, "primaryNumber" : "55", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "C" }
+{ "id" : 8474034, "primaryNumber" : "19", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "LW" }
+{ "id" : 8474586, "primaryNumber" : "14", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "RW" }
+{ "id" : 8475165, "primaryNumber" : "51", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "C" }
+{ "id" : 8475178, "primaryNumber" : "44", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "RW" }
+{ "id" : 8475660, "primaryNumber" : "33", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "G" }
+{ "id" : 8476316, "primaryNumber" : "1", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "G" }
+{ "id" : 8476336, "primaryNumber" : "26", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "RW" }
+{ "id" : 8476454, "primaryNumber" : "93", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "C" }
+{ "id" : 8476457, "primaryNumber" : "6", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8476472, "primaryNumber" : "77", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8476852, "primaryNumber" : "8", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8476915, "primaryNumber" : "54", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "LW" }
+{ "id" : 8476949, "primaryNumber" : "84", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8476988, "primaryNumber" : "83", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8477415, "primaryNumber" : "42", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "LW" }
+{ "id" : 8477498, "primaryNumber" : "25", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8477851, "primaryNumber" : "82", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "D" }
+{ "id" : 8477934, "primaryNumber" : "29", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "C" }
+{ "id" : 8478402, "primaryNumber" : "97", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "C" }
+{ "id" : 8479432, "primaryNumber" : "34", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "G" }
+{ "id" : 8479465, "primaryNumber" : "36", "currentTeamId" : 22, "currentTeamName" : "Edmonton Oilers", "position" : "LW" }
+
+
+
+{ "id" : 8473432, "primaryNumber" : "15", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "RW" }
+{ "id" : 8474593, "primaryNumber" : "25", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "G" }
+{ "id" : 8475210, "primaryNumber" : "17", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "RW" }
+{ "id" : 8475790, "primaryNumber" : "44", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8476440, "primaryNumber" : "60", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8477958, "primaryNumber" : "82", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "RW" }
+{ "id" : 8467875, "primaryNumber" : "22", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "LW" }
+{ "id" : 8467876, "primaryNumber" : "33", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8468011, "primaryNumber" : "30", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "G" }
+{ "id" : 8470626, "primaryNumber" : "21", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "LW" }
+{ "id" : 8471303, "primaryNumber" : "23", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8471681, "primaryNumber" : "9", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "RW" }
+{ "id" : 8473415, "primaryNumber" : "55", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8474091, "primaryNumber" : "20", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8474579, "primaryNumber" : "5", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8474707, "primaryNumber" : "63", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8475213, "primaryNumber" : "42", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8475690, "primaryNumber" : "8", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8475808, "primaryNumber" : "45", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8476390, "primaryNumber" : "26", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8476423, "primaryNumber" : "24", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8476466, "primaryNumber" : "47", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "LW" }
+{ "id" : 8476867, "primaryNumber" : "50", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8477018, "primaryNumber" : "27", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8477126, "primaryNumber" : "46", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8477500, "primaryNumber" : "53", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+{ "id" : 8477997, "primaryNumber" : "88", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8478444, "primaryNumber" : "6", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "RW" }
+{ "id" : 8479442, "primaryNumber" : "51", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "D" }
+{ "id" : 8479969, "primaryNumber" : "13", "currentTeamId" : 23, "currentTeamName" : "Vancouver Canucks", "position" : "C" }
+
+
+
+{ "id" : 8468535, "primaryNumber" : "50", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8469598, "primaryNumber" : "2", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8470612, "primaryNumber" : "15", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8470616, "primaryNumber" : "17", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8470621, "primaryNumber" : "10", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "RW" }
+{ "id" : 8470622, "primaryNumber" : "18", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "RW" }
+{ "id" : 8470775, "primaryNumber" : "44", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8470886, "primaryNumber" : "3", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8471699, "primaryNumber" : "7", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "LW" }
+{ "id" : 8471766, "primaryNumber" : "40", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "RW" }
+{ "id" : 8473523, "primaryNumber" : "31", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "G" }
+{ "id" : 8473541, "primaryNumber" : "1", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "G" }
+{ "id" : 8473560, "primaryNumber" : "5", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8475155, "primaryNumber" : "6", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8475164, "primaryNumber" : "33", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "RW" }
+{ "id" : 8475222, "primaryNumber" : "45", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8475764, "primaryNumber" : "4", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8475780, "primaryNumber" : "21", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8475842, "primaryNumber" : "74", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8476312, "primaryNumber" : "42", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8476400, "primaryNumber" : "48", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8476434, "primaryNumber" : "36", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "G" }
+{ "id" : 8476483, "primaryNumber" : "67", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "C" }
+{ "id" : 8476854, "primaryNumber" : "47", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8476866, "primaryNumber" : "58", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "LW" }
+{ "id" : 8477447, "primaryNumber" : "53", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8477941, "primaryNumber" : "37", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "LW" }
+{ "id" : 8477986, "primaryNumber" : "71", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "D" }
+{ "id" : 8478131, "primaryNumber" : "86", "currentTeamId" : 24, "currentTeamName" : "Anaheim Ducks", "position" : "RW" }
+
+
+
+{ "id" : 8477406, "primaryNumber" : "13", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "C" }
+{ "id" : 8469455, "primaryNumber" : "90", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "C" }
+{ "id" : 8469465, "primaryNumber" : "2", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "D" }
+{ "id" : 8469466, "primaryNumber" : "83", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "RW" }
+{ "id" : 8469544, "primaryNumber" : "10", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "LW" }
+{ "id" : 8470140, "primaryNumber" : "32", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "G" }
+{ "id" : 8470201, "primaryNumber" : "22", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "RW" }
+{ "id" : 8471490, "primaryNumber" : "27", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "RW" }
+{ "id" : 8471750, "primaryNumber" : "30", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "G" }
+{ "id" : 8473994, "primaryNumber" : "14", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "LW" }
+{ "id" : 8474550, "primaryNumber" : "31", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "G" }
+{ "id" : 8474688, "primaryNumber" : "29", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "D" }
+{ "id" : 8474849, "primaryNumber" : "21", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "LW" }
+{ "id" : 8475236, "primaryNumber" : "20", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "C" }
+{ "id" : 8475310, "primaryNumber" : "11", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "LW" }
+{ "id" : 8475730, "primaryNumber" : "28", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "D" }
+{ "id" : 8475747, "primaryNumber" : "15", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "D" }
+{ "id" : 8475794, "primaryNumber" : "91", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "C" }
+{ "id" : 8475906, "primaryNumber" : "3", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "D" }
+{ "id" : 8476439, "primaryNumber" : "25", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "RW" }
+{ "id" : 8476467, "primaryNumber" : "5", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "D" }
+{ "id" : 8476889, "primaryNumber" : "12", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "C" }
+{ "id" : 8476902, "primaryNumber" : "23", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "D" }
+{ "id" : 8476913, "primaryNumber" : "17", "currentTeamId" : 25, "currentTeamName" : "Dallas Stars", "position" : "C" }
+
+
+
+{ "id" : 8470121, "primaryNumber" : "2", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8476983, "primaryNumber" : "38", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8462042, "primaryNumber" : "88", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "RW" }
+{ "id" : 8468483, "primaryNumber" : "12", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "RW" }
+{ "id" : 8470604, "primaryNumber" : "77", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "C" }
+{ "id" : 8470606, "primaryNumber" : "23", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "RW" }
+{ "id" : 8471685, "primaryNumber" : "11", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "C" }
+{ "id" : 8471734, "primaryNumber" : "32", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "G" }
+{ "id" : 8473453, "primaryNumber" : "22", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "C" }
+{ "id" : 8474162, "primaryNumber" : "6", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8474166, "primaryNumber" : "27", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8474563, "primaryNumber" : "8", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8475160, "primaryNumber" : "13", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "LW" }
+{ "id" : 8475188, "primaryNumber" : "3", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8475325, "primaryNumber" : "71", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "C" }
+{ "id" : 8475343, "primaryNumber" : "26", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "C" }
+{ "id" : 8475726, "primaryNumber" : "73", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "C" }
+{ "id" : 8475762, "primaryNumber" : "24", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8475857, "primaryNumber" : "53", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "D" }
+{ "id" : 8476404, "primaryNumber" : "15", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "LW" }
+{ "id" : 8476406, "primaryNumber" : "21", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "C" }
+{ "id" : 8476871, "primaryNumber" : "70", "currentTeamId" : 26, "currentTeamName" : "Los Angeles Kings", "position" : "LW" }
+
+
+
+{ "id" : 8466138, "primaryNumber" : "19", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "C" }
+{ "id" : 8466139, "primaryNumber" : "12", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "LW" }
+{ "id" : 8468208, "primaryNumber" : "42", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "RW" }
+{ "id" : 8468542, "primaryNumber" : "7", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "D" }
+{ "id" : 8470613, "primaryNumber" : "88", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "D" }
+{ "id" : 8470794, "primaryNumber" : "8", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "C" }
+{ "id" : 8471498, "primaryNumber" : "36", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "RW" }
+{ "id" : 8471709, "primaryNumber" : "44", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "D" }
+{ "id" : 8473673, "primaryNumber" : "5", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "D" }
+{ "id" : 8474027, "primaryNumber" : "61", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "D" }
+{ "id" : 8474053, "primaryNumber" : "39", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "C" }
+{ "id" : 8474230, "primaryNumber" : "38", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "C" }
+{ "id" : 8474571, "primaryNumber" : "89", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "LW" }
+{ "id" : 8474889, "primaryNumber" : "31", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "G" }
+{ "id" : 8475455, "primaryNumber" : "4", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "D" }
+{ "id" : 8475820, "primaryNumber" : "27", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "RW" }
+{ "id" : 8476331, "primaryNumber" : "74", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "D" }
+{ "id" : 8476881, "primaryNumber" : "48", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "C" }
+{ "id" : 8476919, "primaryNumber" : "50", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "C" }
+{ "id" : 8477180, "primaryNumber" : "30", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "G" }
+{ "id" : 8477922, "primaryNumber" : "68", "currentTeamId" : 28, "currentTeamName" : "San Jose Sharks", "position" : "C" }
+
+
+
+{ "id" : 8470920, "primaryNumber" : "23", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "RW" }
+{ "id" : 8468486, "primaryNumber" : "43", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "LW" }
+{ "id" : 8470724, "primaryNumber" : "26", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8471232, "primaryNumber" : "29", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "LW" }
+{ "id" : 8471273, "primaryNumber" : "17", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "C" }
+{ "id" : 8471677, "primaryNumber" : "7", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8473422, "primaryNumber" : "71", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "LW" }
+{ "id" : 8474040, "primaryNumber" : "89", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "C" }
+{ "id" : 8474610, "primaryNumber" : "27", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "C" }
+{ "id" : 8474685, "primaryNumber" : "11", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "LW" }
+{ "id" : 8474715, "primaryNumber" : "13", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "RW" }
+{ "id" : 8475233, "primaryNumber" : "58", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8475598, "primaryNumber" : "", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8475683, "primaryNumber" : "72", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "G" }
+{ "id" : 8476310, "primaryNumber" : "45", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "C" }
+{ "id" : 8476432, "primaryNumber" : "38", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "C" }
+{ "id" : 8476438, "primaryNumber" : "20", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "LW" }
+{ "id" : 8476448, "primaryNumber" : "25", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "C" }
+{ "id" : 8476449, "primaryNumber" : "54", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8476850, "primaryNumber" : "27", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8476914, "primaryNumber" : "70", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "G" }
+{ "id" : 8476981, "primaryNumber" : "34", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "RW" }
+{ "id" : 8477416, "primaryNumber" : "28", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "RW" }
+{ "id" : 8477495, "primaryNumber" : "3", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8477505, "primaryNumber" : "10", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "C" }
+{ "id" : 8478460, "primaryNumber" : "8", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8478506, "primaryNumber" : "53", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8478541, "primaryNumber" : "33", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "LW" }
+{ "id" : 8478906, "primaryNumber" : "65", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "D" }
+{ "id" : 8479411, "primaryNumber" : "18", "currentTeamId" : 29, "currentTeamName" : "Columbus Blue Jackets", "position" : "RW" }
+
+
+
+{ "id" : 8469459, "primaryNumber" : "9", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8469506, "primaryNumber" : "29", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "RW" }
+{ "id" : 8470595, "primaryNumber" : "12", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8470600, "primaryNumber" : "20", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8470610, "primaryNumber" : "11", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "LW" }
+{ "id" : 8471227, "primaryNumber" : "40", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "G" }
+{ "id" : 8471691, "primaryNumber" : "19", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8471774, "primaryNumber" : "32", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "G" }
+{ "id" : 8473466, "primaryNumber" : "21", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8473485, "primaryNumber" : "7", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "RW" }
+{ "id" : 8473658, "primaryNumber" : "28", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8474618, "primaryNumber" : "6", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8474716, "primaryNumber" : "46", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8475147, "primaryNumber" : "10", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8475287, "primaryNumber" : "56", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8475311, "primaryNumber" : "35", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "G" }
+{ "id" : 8475613, "primaryNumber" : "39", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8475722, "primaryNumber" : "16", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "LW" }
+{ "id" : 8475745, "primaryNumber" : "3", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8475798, "primaryNumber" : "64", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+{ "id" : 8475799, "primaryNumber" : "22", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "RW" }
+{ "id" : 8476463, "primaryNumber" : "25", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8476856, "primaryNumber" : "24", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8477850, "primaryNumber" : "5", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "D" }
+{ "id" : 8478493, "primaryNumber" : "14", "currentTeamId" : 30, "currentTeamName" : "Minnesota Wild", "position" : "C" }
+
+
+
+{ "id" : 8474574, "primaryNumber" : "57", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8478031, "primaryNumber" : "62", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8478398, "primaryNumber" : "81", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "LW" }
+{ "id" : 8469501, "primaryNumber" : "22", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "RW" }
+{ "id" : 8470614, "primaryNumber" : "5", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8470828, "primaryNumber" : "39", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8470834, "primaryNumber" : "33", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8471218, "primaryNumber" : "26", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "RW" }
+{ "id" : 8471715, "primaryNumber" : "31", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "G" }
+{ "id" : 8473412, "primaryNumber" : "18", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "C" }
+{ "id" : 8473574, "primaryNumber" : "16", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "LW" }
+{ "id" : 8473618, "primaryNumber" : "85", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "C" }
+{ "id" : 8474074, "primaryNumber" : "4", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8474636, "primaryNumber" : "34", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "G" }
+{ "id" : 8475279, "primaryNumber" : "7", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8475815, "primaryNumber" : "71", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8476392, "primaryNumber" : "17", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "C" }
+{ "id" : 8476460, "primaryNumber" : "55", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "C" }
+{ "id" : 8476469, "primaryNumber" : "40", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "RW" }
+{ "id" : 8476885, "primaryNumber" : "8", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8476945, "primaryNumber" : "37", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "G" }
+{ "id" : 8477429, "primaryNumber" : "9", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "C" }
+{ "id" : 8477448, "primaryNumber" : "56", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "C" }
+{ "id" : 8477464, "primaryNumber" : "19", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "LW" }
+{ "id" : 8477504, "primaryNumber" : "44", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "D" }
+{ "id" : 8477940, "primaryNumber" : "27", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "LW" }
+{ "id" : 8479293, "primaryNumber" : "13", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "LW" }
+{ "id" : 8479339, "primaryNumber" : "29", "currentTeamId" : 52, "currentTeamName" : "Winnipeg Jets", "position" : "RW" }
+
+
+
+{ "id" : 8470755, "primaryNumber" : "15", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "RW" }
+{ "id" : 8462038, "primaryNumber" : "19", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "RW" }
+{ "id" : 8468085, "primaryNumber" : "17", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "RW" }
+{ "id" : 8469608, "primaryNumber" : "41", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "G" }
+{ "id" : 8469760, "primaryNumber" : "4", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }
+{ "id" : 8471274, "primaryNumber" : "33", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }
+{ "id" : 8473465, "primaryNumber" : "88", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "LW" }
+{ "id" : 8474568, "primaryNumber" : "2", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }
+{ "id" : 8475171, "primaryNumber" : "23", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }
+{ "id" : 8475180, "primaryNumber" : "13", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "C" }
+{ "id" : 8475246, "primaryNumber" : "44", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }
+{ "id" : 8475788, "primaryNumber" : "91", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "C" }
+{ "id" : 8475800, "primaryNumber" : "12", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "LW" }
+{ "id" : 8475839, "primaryNumber" : "35", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "G" }
+{ "id" : 8476356, "primaryNumber" : "8", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "RW" }
+{ "id" : 8476473, "primaryNumber" : "5", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }
+{ "id" : 8476921, "primaryNumber" : "48", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "LW" }
+{ "id" : 8477407, "primaryNumber" : "10", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "LW" }
+{ "id" : 8477503, "primaryNumber" : "16", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "LW" }
+{ "id" : 8477591, "primaryNumber" : "86", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "RW" }
+{ "id" : 8477943, "primaryNumber" : "29", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "LW" }
+{ "id" : 8477950, "primaryNumber" : "77", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }
+{ "id" : 8477989, "primaryNumber" : "18", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "C" }
+{ "id" : 8478474, "primaryNumber" : "67", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "LW" }
+{ "id" : 8479343, "primaryNumber" : "14", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "C" }
+{ "id" : 8479345, "primaryNumber" : "6", "currentTeamId" : 53, "currentTeamName" : "Arizona Coyotes", "position" : "D" }

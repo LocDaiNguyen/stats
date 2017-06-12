@@ -1,0 +1,37 @@
+<div class="leader">
+  <div class="headshot-logo">
+    <img ng-src="{{vm.selectedleader.playerImageLink}}" alt="" class="player-headshot">
+    <img ng-src="{{vm.selectedleader.currentTeamLogoLink}}" alt="" class="team-logo">
+  </div>
+  <div class="row">
+    <div class="col-xs-5 no-gutter">
+      <div class="number">
+        <span>#{{vm.selectedleader.playerCurrentNumber}}</span>
+      </div>
+    </div>
+    <div class="col-xs-7 no-gutter">
+      <div class="name">
+        <span class="first">{{vm.selectedleader.playerFirstName}}</span>
+        <span class="last">{{vm.selectedleader.playerLastName}}</span>
+      </div>
+    </div>
+  </div>
+  <div class="team-position">
+    <span class="team">{{vm.selectedleader.playerCurrentTeamName}} | {{vm.selectedleader.playerPositionCode}}</span>
+  </div>
+  <div class="stats">
+    <div class="title">
+      <span>{{vm.stat}}</span>
+    </div>
+    <div class="stat">
+      <span ng-if="vm.stat === 'points'">{{vm.selectedleader.points}}</span>
+      <span ng-if="vm.stat === 'goals'">{{vm.selectedleader.goals}}</span>
+      <span ng-if="vm.stat === 'assists'">{{vm.selectedleader.assists}}</span>
+      <span ng-if="vm.stat === 'plus-minus'">{{vm.selectedleader.plusMinus}}</span>
+      <span ng-if="vm.stat === 'gaa'">{{vm.selectedleader.goalsAgainstAverage | number : 2}}</span>
+      <span ng-if="vm.stat === 'save%'">{{vm.selectedleader.savePctg | number : 3}}</span>
+      <span ng-if="vm.stat === 'wins'">{{vm.selectedleader.wins}}</span>
+      <span ng-if="vm.stat === 'shutouts'">{{vm.selectedleader.shutouts}}</span>
+    </div>
+  </div>
+</div>

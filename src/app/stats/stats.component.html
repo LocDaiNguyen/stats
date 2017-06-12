@@ -1,0 +1,135 @@
+<div class="row white mar-top-8 mar-bot-2">
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">Points ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'player'"
+          stat="'points'"
+          selectedleader="vm.selectedPointLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.pointChartOptions" data="vm.pointData"></nvd3>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">Goals ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'player'"
+          stat="'goals'"
+          selectedleader="vm.selectedGoalLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.goalChartOptions" data="vm.goalData"></nvd3>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row white mar-bot-2">
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">Assists ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'player'"
+          stat="'assists'"
+          selectedleader="vm.selectedAssistLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.assistChartOptions" data="vm.assistData"></nvd3>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">Plus-Minus ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'player'"
+          stat="'plus-minus'"
+          selectedleader="vm.selectedPlusMinusLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.plusMinusChartOptions" data="vm.plusMinusData"></nvd3>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<div class="row white mar-bot-2">
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">GAA ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'goalie'"
+          stat="'gaa'"
+          selectedleader="vm.selectedGaaLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.gaaChartOptions" data="vm.gaaData"></nvd3>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">Save Percentage ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'goalie'"
+          stat="'save%'"
+          selectedleader="vm.selectedSvLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.svChartOptions" data="vm.svData"></nvd3>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row white mar-bot-2">
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">Wins ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'goalie'"
+          stat="'wins'"
+          selectedleader="vm.selectedWinLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.winChartOptions" data="vm.winData"></nvd3>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-6">
+    <h3 class="stats-title">Shutouts ></h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <leader
+          type="'goalie'"
+          stat="'shutouts'"
+          selectedleader="vm.selectedSoLeader"
+        ></leader>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <nvd3 options="vm.soChartOptions" data="vm.soData"></nvd3>
+      </div>
+    </div>
+  </div>
+</div>
